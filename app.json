@@ -6,7 +6,7 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#1c1b21",
+    "navigationBarBackgroundColor": "#3E9CD6",
     "navigationBarTitleText": "Franko 在线翻译",
     "navigationBarTextStyle": "white",
     "backgroundColor": "red"
@@ -15,7 +15,7 @@
     "borderStyle": "white",
     "position": "top",
     "color": "#595959",
-    "selectedColor": "#1c1b21",
+    "selectedColor": "#3E9CD6",
     "list": [
       {
         "pagePath": "pages/index/index",
